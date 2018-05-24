@@ -1,5 +1,7 @@
 def introduce():
     print("Hello, I'm Gittie and the bees!")
+    print("Hello, I'm Gittie!")
+    print("Who cares?")
 
 
 def add(a,b):

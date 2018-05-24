@@ -9,9 +9,14 @@ def add(a,b):
     return c
 
 def joke():
+    print('joke')
 
 def shout():
+<<<<<<< Updated upstream
 
 
 
     print('joke')
+=======
+    pass
+>>>>>>> Stashed changes

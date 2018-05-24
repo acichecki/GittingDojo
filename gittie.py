@@ -1,5 +1,6 @@
 def introduce():
     print("Hello, I'm Gittie!")
+    print("Who cares?")
 
 <<<<<<< HEAD
 def add(a,b):

@@ -10,6 +10,8 @@ def add(a,b):
 
 def joke():
 
+def shout():
+
 
 
     print('joke')
